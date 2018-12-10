@@ -10,6 +10,9 @@ namespace _6_2_Busqueda_Binaria
     {
         static void Main(string[] args)
         {
+            BusquedaBinaria ejemplos = new BusquedaBinaria();
+
+            ejemplos.Menu();
         }
     }
 }
